@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barv11&label=Profile%20views&color=0e75b6&style=flat" alt="barv11" /> </p>
 
 <h1 align="center">Holas👋, muchas gracias por entrar a mi perfil.</h1>
-<p align="center">Me llamo Bryan, tengo 20 años, me considero una persona curiosa, dedicada, cooperativa en equipo y dispuesto a aprende de otros.
+<p align="left">Me llamo Bryan, tengo 20 años, me considero una persona curiosa, dedicada, cooperativa en equipo y dispuesto a aprende de otros.
  Me gusta poder aprender de otros, debatir soluciones y compartir conocimientos.</p>
 
 
