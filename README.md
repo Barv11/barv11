@@ -40,6 +40,14 @@
     </td>
    <td>SCRUM</td>
   </tr>
+ <tr>
+  <td><ul><li>JavaScript</li></ul></td>
+  <td><ul><li>PostgreSQL</li><li>SQLite</li></ul></td>
+  <td><ul><li>NodeJS</li><li>Express.js</li></ul></td>
+  <td><ul><li>React</li><li>Redux</li><li>HTML</li><li>CSS</li></ul></td>
+  <td><ul><li>Git</li></ul></td>
+  <td></td>
+ </tr>
 </table>
 
 
