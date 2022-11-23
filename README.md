@@ -53,5 +53,5 @@
 
 ## 📩 Contactame 
 **[Linkedln](https://www.linkedin.com/in/barv11/)**
-
+**[Correo](mailto:bryan.rv.develop@hotmail.com)**
 **[WhatsApp](https://wa.link/91wz73)**
