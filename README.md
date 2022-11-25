@@ -28,6 +28,7 @@
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+      <img src="https://sequelize.org/img/logo.svg" alt="sequelize" width="40" height="40"/>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -43,7 +44,7 @@
  <tr>
   <td><ul><li>JavaScript</li></ul></td>
   <td><ul><li>PostgreSQL</li><li>SQLite</li></ul></td>
-  <td><ul><li>NodeJS</li><li>Express.js</li></ul></td>
+  <td><ul><li>NodeJS</li><li>Express.js</li><li>Sequelize</li></ul></td>
   <td><ul><li>React</li><li>Redux</li><li>HTML</li><li>CSS</li></ul></td>
   <td><ul><li>Git</li></ul></td>
   <td></td>
