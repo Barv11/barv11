@@ -53,10 +53,12 @@
 
 
 ## 📩 Contactame 
+
+**[Portafolio](https://portfolio-barv.vercel.app/)**
+
 **[Linkedln](https://www.linkedin.com/in/barv11/)**
 
 **[Correo](mailto:bryan.rv.develop@hotmail.com)**
 
 **[WhatsApp](https://wa.link/91wz73)**
 
-**[Portafolio](https://portfolio-barv.vercel.app/)**
